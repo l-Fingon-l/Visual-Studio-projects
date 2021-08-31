@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(98,14): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(105,48): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(111,31): warning C4244: 'return': conversion from 'double' to 'uint16_t', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(132,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(196,93): warning C4244: 'argument': conversion from 'double' to 'uint16_t', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(171,9): warning C4101: 'buffer': unreferenced local variable
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(267,24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(288,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(355,20): warning C4244: '=': conversion from 'time_t' to 'uint32_t', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(358,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(63,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Vanya\source\repos\UpsellElo\UpsellElo\main.cpp(158): message : see reference to function template instantiation 'void get_uint<uint8_t>(std::ifstream &,T &)' being compiled
+          with
+          [
+              T=uint8_t
+          ]
+  UpsellElo.vcxproj -> C:\Users\Vanya\source\repos\UpsellElo\x64\Debug\UpsellElo.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Vanya\source\repos\Ag3nt\Ag3nt\main.cpp(33,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ag3nt.vcxproj -> C:\Users\Vanya\source\repos\Ag3nt\Debug\Ag3nt.exe

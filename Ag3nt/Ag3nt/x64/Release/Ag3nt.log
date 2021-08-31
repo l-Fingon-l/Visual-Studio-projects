@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Vanya\source\repos\Ag3nt\Ag3nt\main.cpp(46,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Vanya\source\repos\Ag3nt\Ag3nt\main.cpp(81,57): warning C4311: 'type cast': pointer truncation from 'A *' to 'int'
+C:\Users\Vanya\source\repos\Ag3nt\Ag3nt\main.cpp(81,57): warning C4302: 'type cast': truncation from 'A *' to 'int'
+  Generating code
+  1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ag3nt.vcxproj -> C:\Users\Vanya\source\repos\Ag3nt\x64\Release\Ag3nt.exe

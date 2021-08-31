@@ -1,0 +1,14 @@
+re-calculate = 0
+report = 1
+table-style = 0
+K = 10 25 40
+
+Sirius 903
+xXx 741
+Immortal 684
+flame 620
+azshara 608
+dankar 574
+ups3ller 334
+illisori 37
+immmortal 35

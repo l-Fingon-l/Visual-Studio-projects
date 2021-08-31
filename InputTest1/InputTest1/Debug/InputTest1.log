@@ -1,0 +1,4 @@
+﻿  InputTest1.cpp
+C:\Users\Vanya\source\repos\InputTest1\InputTest1\InputTest1.cpp(208,27): warning C4305: 'initializing': truncation from 'int' to 'UINT8'
+C:\Users\Vanya\source\repos\InputTest1\InputTest1\InputTest1.cpp(208,18): warning C4309: 'initializing': truncation of constant value
+  InputTest1.vcxproj -> C:\Users\Vanya\source\repos\InputTest1\Debug\InputTest1.exe

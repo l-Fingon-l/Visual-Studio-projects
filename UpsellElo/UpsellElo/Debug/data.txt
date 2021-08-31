@@ -1,0 +1,6 @@
+K = 32
+Immortal 2700
+Illisori 2500
+Upsell3r 2200
+Sirius 2600
+DanKar 2650

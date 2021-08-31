@@ -1,0 +1,5 @@
+﻿  EloDatabase.cpp
+C:\Users\Vanya\source\repos\TheSurvey\TheSurvey\EloDatabase.cpp(161,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vanya\source\repos\TheSurvey\TheSurvey\EloDatabase.cpp(161,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vanya\source\repos\TheSurvey\TheSurvey\EloDatabase.cpp(222,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TheSurvey.vcxproj -> C:\Users\Vanya\source\repos\TheSurvey\Debug\TheSurvey.exe

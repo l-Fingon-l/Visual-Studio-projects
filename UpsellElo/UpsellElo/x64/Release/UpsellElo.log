@@ -1,0 +1,26 @@
+﻿  main.cpp
+main.cpp(109): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+main.cpp(116): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+main.cpp(123): warning C4244: 'return': conversion from 'double' to 'uint16_t', possible loss of data
+main.cpp(155): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+main.cpp(152): warning C4101: 'buffer': unreferenced local variable
+main.cpp(221): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+main.cpp(231): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+main.cpp(241): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+main.cpp(251): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+main.cpp(333): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+main.cpp(354): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+main.cpp(423): warning C4101: 'buffer': unreferenced local variable
+main.cpp(70): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  main.cpp(139): note: see reference to function template instantiation 'bool get_uint<uint8_t>(std::ifstream &,T &)' being compiled
+          with
+          [
+              T=uint8_t
+          ]
+  Generating code
+  46 of 229 functions (20.1%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UpsellElo.vcxproj -> C:\Users\Vanya\source\repos\UpsellElo\x64\Release\UpsellElo.exe
+  UpsellElo.vcxproj -> C:\Users\Vanya\source\repos\UpsellElo\x64\Release\UpsellElo.pdb (Full PDB)
