@@ -23,6 +23,8 @@ For this reason I have come up and have implemented my own simple \*Git-like\* (
 - export or import the whole *chronicle* file
 - check for entry name conflicts and resolve those
 
+This project features a [successfull attempt](UpsellElo/UpsellElo/archive) to save and document the source code of the application itself as well.
+
 The system had also exposed an interesting Elo-decay mechanism binded with the *chronicle* roll-back.  
 
 <details>
@@ -37,7 +39,7 @@ The code was horrible, it was slow. But it did its job and served well for over 
 
 ---
 ## Survey Engine
-[This project](TheSurvey/TheSurvey) could easily be my very first own C++ project.  
+[This project](TheSurvey/TheSurvey) could easily be my own very first C++ project.  
 It wasn't even finished.  
 
 It's quite fascinating to look at it in terms of what I have learned since, and comparing it to my recent projects. 
