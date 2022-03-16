@@ -38,9 +38,8 @@ Moreover, the system was highly customisable and the user was provided with the 
 The code was horrible, it was slow. But it did its job and served well for over 2 years of the league.
 
 ---
-## Survey Engine
-[This project](TheSurvey/TheSurvey) could easily be my own very first C++ project.  
-It wasn't even finished.  
+## Survey Engine (unfinished)
+[This project](TheSurvey/TheSurvey) could easily be my own very first C++ project.    
 
 It's quite fascinating to look at it in terms of what I have learned since, and comparing it to my recent projects. 
 
