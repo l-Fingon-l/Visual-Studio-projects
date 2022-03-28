@@ -17,13 +17,13 @@ The code itself is pretty awful: I have had no idea of any algorithms or data st
 But what makes it interesting is the fact that at some point we realised someone might make a mistake in input data. Or one might think of roll the whole ranking back to some point in the past.  
 
 For this reason I have come up and have implemented my own simple \*Git-like\* (I have had no idea of what Git is at that point, neither of any other VCS) Version Control System which could:
-- store all the inputs and changes ever commited to the ranking
+- store all the inputs and changes ever committed to the ranking
 - keep them in an incredibly efficient compact form
 - allow for a roll-back to any previous stage in history
 - export or import the whole *chronicle* file
 - check for entry name conflicts and resolve those
 
-This project features a [successfull attempt](UpsellElo/UpsellElo/archive) to save and document the source code of the application itself as well.
+This project features a [successful attempt](UpsellElo/UpsellElo/archive) to save and document the source code of the application itself as well.
 
 The system had also exposed an interesting Elo-decay mechanism binded with the *chronicle* roll-back.  
 
